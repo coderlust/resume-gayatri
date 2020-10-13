@@ -1,0 +1,92 @@
+{
+  "main": {
+    "name":"Gayatri Kale",
+    "description":"I am a Python developer. This project is a resume template that can be used as the project home page or resume page",
+    "image":"profilepic.jpg",
+    "bio":"I am a Python developer. Loves to learn new languages and cultures, keen observer, dreamer and sometimes write",
+    "contactmessage":"Feel free to reach out to me.",
+    "email": "gayatrikale56@gmail.com",
+    "github":"https://github.com/gayu19",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "city":"Mumbai",
+      "state":"Maharashtra",
+      "zip": "401 701"
+    },
+    "website": "http://www.coderlust.com",
+    "resumedownload":"my-resume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/gayatri-kale-aa2424118/",
+        "className":"fa fa-linkedin"
+      },
+            {
+        "name":"github",
+        "url":"https://github.com/gayu19",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Government College of Engineering, Aurangabad",
+        "degree":"Bachelor of Engineering",
+        "graduated":"May 2017",
+        "description": [
+          "Attended 15 days workshop at IGTR, Aurangabad",
+          "Volunteered in different tech events and use to write blogs in College magazine"
+        ]
+      },
+      {
+        "school":"Maharashtra Public School, Aurangabad",
+        "degree":"High School",
+        "graduated":"May 2011",
+        "description": [
+          "Completed high-school education",
+          "MTSE Scholarship holder for 8th,9th,10th standard",
+          "School topper in 10th Standard"
+        ]
+      }
+    ],
+    "work":[
+      {
+        "company":"TATA Consultancy Services",
+        "title":"Python Developer",
+        "years":"July 2017 - Present",
+        "projects": [
+          "Designed and developed python automation scripts",
+          "Managed and developed various platforms",
+          "Have worked on some of AWS services and have the working knowledge of Lambda functions",
+          "Have working knowledge of DNS and SSL",
+          "Integrated all types of REST API with Python",
+          "Created REST APIs in python flask",
+          "Written few articles on medium.com"
+        ],
+        "achievements": [          
+          "Reduced a lot of manual efforts with new initiatives",
+          "On the spot award for one of the initiative"
+          
+        ],
+        "certifications": [
+          "V-skills Certified Python Developer"
+        ],
+        "articles": [
+          "Hangman game : https://medium.com/@sairajtri/classic-hangman-with-python-8eefa20e1fcf",
+          "Files moving utility : https://medium.com/@sairajtri/magic-of-moving-the-files-among-folders-with-python-using-watchdog-f0dadfbb7a07"
+        ]
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"90%"
+      }
+    ]
+  },
+  "portfolio":{
+    
+  }
+}
